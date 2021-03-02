@@ -1,0 +1,3 @@
+platform used: jupyter notebook
+python libraries required:
+numpy, pandas, matplotlib, seaborn, sklearn
